@@ -14,6 +14,37 @@
     "nuxt-lodash": "^2.5.3",
     "vue": "latest",
     "vue-router": "latest",
-    "vuetify-nuxt-module": "^0.18.3"
+    "vuetify-nuxt-module": "^0.18.3",
+    "@firebase/app-types": "^0.9.3",
+    "@pinia/nuxt": "^0.9.0",
+    "accounting-js": "^1.1.1",
+    "firebase": "^11.1.0",
+    "firebase-admin": "^13.0.2",
+    "firebase-functions": "^6.2.0",
+    "install": "^0.13.0",
+    "markdown-it": "^14.1.0",
+    "moment": "^2.30.1",
+    "npm": "^11.0.0",
+    "numeral": "^2.0.6",
+    "nuxt-vuefire": "^1.0.5",
+    "pinia": "^2.3.0",
+    "quill": "^2.0.3",
+    "vue-html-to-paper": "^2.0.3",
+    "vue-i18n": "^11.0.1",
+    "vue-json-excel3": "^1.0.30",
+    "vue-loading-overlay": "^6.0.6",
+    "vue3-google-map": "^0.21.0",
+    "vue3-toastify": "^0.2.8",
+    "vue3-xlsx": "^1.1.2",
+    "vuefire": "^3.2.1",
+    "vuetify-pro-tiptap": "^2.5.6"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@types/numeral": "^2.0.5",
+    "nuxt-lodash": "^2.5.3",
+    "sass": "^1.83.4",
+    "sass-loader": "^16.0.4",
+    "vuetify": "^3.7.0-beta.1"
   }
 }

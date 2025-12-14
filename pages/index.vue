@@ -1,3 +1,3 @@
 <template>
-    <v-btn color="red">Click me</v-btn>
+    <v-btn color="red" to="/crud">Crud</v-btn>
 </template>
