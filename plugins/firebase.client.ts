@@ -15,12 +15,12 @@ declare module 'vue' {
 
 export default defineNuxtPlugin(() => {
   const app = getApps()[0] ?? initializeApp({
-    apiKey:"AIzaSyAJpw3FLhjG5uH1Acm_Brr30__P5lOfHYQ",
-    authDomain:"tap-erp-94e6c.firebaseapp.com",
-    projectId:"tap-erp-94e6c",
-    storageBucket:"tap-erp-94e6c.appspot.com",
-    messagingSenderId:"579149323868",
-    appId:"1:579149323868:web:e8dfd7dc1903fe617a5099",
+    apiKey:"AIzaSyCu0xsfZCiIegl21EOvwWu42HnDcC9As6Y",
+    authDomain:"syafama-media.firebaseapp.com",
+    projectId:"syafama-media",
+    storageBucket:"syafama-media.firebasestorage.app",
+    messagingSenderId:"909231531359",
+    appId:"1:909231531359:web:e72585a1544cb7929042ea",
   })
 
   const messaging = getMessaging(app)
