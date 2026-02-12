@@ -1,17 +1,14 @@
-<template>
+<!-- <template>
   <v-app>
-    <!-- HERO -->
     <v-container fluid class="hero">
       <div class="hero-content text-center">
         <p class="opening animate-fade-down">The Wedding Of</p>
         <h1 class="names animate-scale">Ahmad & Aisyah</h1>
         <p class="date animate-fade-up">10 Agustus 2026</p>
-        <!-- Decorative Floating Hearts -->
         <div v-for="i in 8" :key="i" class="floating-heart">❤️</div>
       </div>
     </v-container>
 
-    <!-- QUOTE -->
     <v-container class="section text-center fade-up">
       <p class="quote animate-fade-up">
         “Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan
@@ -20,7 +17,6 @@
       <small>QS. Ar-Rum : 21</small>
     </v-container>
 
-    <!-- DETAIL -->
     <v-container class="section bg-soft fade-up">
       <h2 class="section-title animate-fade-up">Detail Acara</h2>
 
@@ -51,13 +47,11 @@
       </v-row>
     </v-container>
 
-    <!-- COUNTDOWN -->
     <v-container class="section text-center fade-up">
       <h2 class="section-title animate-fade-up">Menuju Hari Bahagia</h2>
       <div class="countdown animate-countdown">{{ countdown }}</div>
     </v-container>
 
-    <!-- GALERI -->
     <v-container class="section bg-soft fade-up">
       <h2 class="section-title animate-fade-up">Galeri</h2>
       <v-row class="mt-6">
@@ -71,7 +65,6 @@
       </v-row>
     </v-container>
 
-    <!-- BUKU TAMU -->
     <v-container class="section fade-up">
       <h2 class="section-title text-center animate-fade-up">Buku Tamu & Ucapan</h2>
 
@@ -101,7 +94,6 @@
       </v-card>
     </v-container>
 
-    <!-- FOOTER -->
     <v-footer class="footer">
       <p>Terima kasih atas doa & kehadiran Anda 🤍</p>
     </v-footer>
@@ -297,4 +289,8 @@ async function submitUcapan() {
 @keyframes fadeRight { from { opacity: 0; transform: translateX(30px) } to { opacity: 1; transform: translateX(0) } }
 @keyframes scaleUp { from { opacity: 0; transform: scale(0.8) } to { opacity: 1; transform: scale(1) } }
 @keyframes pulse { 0%,100% { transform: scale(1) } 50% { transform: scale(1.05) } }
-</style>
+</style> -->
+
+<template>
+  <h1>index</h1>
+</template>
